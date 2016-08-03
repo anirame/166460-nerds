@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Marina Ermakova](https://up.htmlacademy.ru/htmlcss/14/user/166460).
-* Наставник: `Неизвестно`.
+* Наставник: `Natalya Loskutova`.
 
 ---
 
